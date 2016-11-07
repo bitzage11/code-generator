@@ -1,0 +1,64 @@
+
+.tab a{
+      color: #444 !important;
+    background: #f7f7f7 !important;
+}
+.tab.active a{
+    color: rgba(255,255,255,0.9) !important;
+    background: #3c8dbc !important;
+}
+ .btn-filter {
+    background-color: transparent;
+    margin-left: 5px;
+    line-height: 25px;
+    border-color: #D2DCE7;
+    border-radius: 2px;
+    outline: 0 none;
+    font-weight: 400;
+    font-size: 16px !important;
+    padding: 2px 10px;
+}
+
+.panel-heading 
+{   
+  background-color: #FFFFFF;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.panel-heading .pull-right {
+  float: right!important;
+}
+.pull-right{
+      padding: 6px 12px;
+    float: right!important;
+    margin-bottom: 10px;
+}
+.breadcrumb {
+    float:left !important;
+    position:initial !important;
+}
+.panel-filter {
+    width: 90%; 
+    border: 1px solid rgba(68, 68, 68, 0.14902);
+     min-height: 0px !important;
+     padding: 0px;
+     margin-left: 10px;
+     display:none;
+}
+.panel-filter form{
+    padding: 12px 7px;
+}
+.box-header {
+    padding: 0px !important;
+}
+.hide
+{
+  display: none;
+}
+.show {
+  display: block;
+}
+.padding {
+
+  padding: 10px;
+}
