@@ -1,6 +1,7 @@
+<h1>Laravel Code Generator Project <br>
+<img src="http://bitzage.info/img/laravel/7DayGymPass.png"> </img>
+Using Laravel 
 
-<h1>Using latest Laravel PHP Framework</h1>
+Generatos Random Code<br>
 
-Code Generator for user registration
-
-<a href="bitzage.com">Done by Bitzage</a>
+<a href="bitzage.com">By Bitzage</a></h1>
